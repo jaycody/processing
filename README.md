@@ -5,7 +5,7 @@ ___________________________
 ####Resources:
 #####Shiffman:
 - [Learning Processing] - Book online with examples, problems sets, interactive text
-- [Learning Processing Exercises] - from the book
+- [Learning Processing Exercises]
 - [ICM Video Series]
 - [Nature of Code Video Series]
 - [Nature of Code Book Online]
